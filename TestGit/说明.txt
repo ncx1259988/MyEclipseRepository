@@ -4,3 +4,4 @@
 4.使用HTTPS方式提交到远程仓库，试试输入用户和密码 用户名：宁创新，密码：1259*8*n** 提交成功
 5.使用HTTPS方式提交到远程仓库，试试输入用户和密码 用户名：ncx1259988@hotmail.com，密码：1259*8*n** 提交成功
 6.删除了GitHub的SSH Key 使用SSH方式提交
+	提交不成功，报错：An internal Exception occurred during push: git@github.com:ncx1259988/MyEclipseRepository.git: session is down
